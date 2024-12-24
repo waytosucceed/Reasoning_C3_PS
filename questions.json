@@ -1,0 +1,466 @@
+{
+  "heading": "Reasoning",
+  "topics": [
+    {
+      "heading": "Reasoning",
+      "questions": [
+        {
+          "questionNo": 1,
+          "content":"Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to the each other.",
+          "question": "Who is sitting opposite to Prakash?",
+          "options": [
+            { "text": "Mukesh" },
+            { "text": "Deepa" },
+            { "text": "Pankaj" },
+            { "text": "Lalit" },
+            { "text": "Priti" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "content":"Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to the each other.",
+          "question": "Who is just right to Pankaj?",
+          "options": [
+            { "text": "Deepa" },
+            { "text": "Lalit" },
+            { "text": "Prakash" },
+            { "text": "Priti" },
+            { "text": "Mukesh" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "content":"Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to the each other.",
+          "question": "Who are the neighbour of Mukesh? ",
+          "options": [
+            { "text": "Prakash and Deepa" },
+            { "text": "Deepa and Priti" },
+            { "text": "Priti and Pankaj" },
+            { "text": "Lalit and Priti" },
+            { "text": "Pankaj and Deepa" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "content":"Six friends are sitting in a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to the each other.",
+          "question": "Who is sitting opposite to Priti?",
+          "options": [
+            { "text": "Prakash" },
+            { "text": "Deepa" },
+            { "text": "Pankaj" },
+            { "text": "Lalit" },
+            { "text": "Mukesh" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "content":"Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.",
+          "question": "Which one is sitting opposite to P?",
+          "options": [
+            { "text": "R" },
+            { "text": "Q" },
+            { "text": "T" },
+            { "text": "S" },
+            { "text": "P" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "content":"Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.",
+          "question": "Who is the fourth person to the left of Q?",
+          "options": [
+            { "text": "P" },
+            { "text": "UT" },
+            { "text": "R" },
+            { "text": "Data inadequate" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "content":"Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.",
+          "question": "Which of the following are the neughbours of P?",
+          "options": [
+            { "text": "U and P" },
+            { "text": "T and R" },
+            { "text": "U and R" },
+            { "text": "Data inadequate" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "content":"Six friends P, Q, R, S, T and U are sitting around the hexagonal table each at one corner and are facing the centre of the hexagonal. P is second to the left of U. Q is neighbour of R and S. T is second to the left of S.",
+          "question": "Which one is sitting opposite to T?",
+          "options": [
+            { "text": "R" },
+            { "text": "Q" },
+            { "text": "Cannot be determined" },
+            { "text": "S" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "content":"<ol type='i'><li>8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.</li><li>There are 3 ladies who are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member is second to the left of J.</li><li>F, a male member is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+          "question": "Who among the following is to the immediate left of F?",
+          "options": [
+            { "text": "G" },
+            { "text": "I" },
+            { "text": "J" },
+            { "text": "H" },
+            { "text": "L" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 9,
+          "content":"<ol type='i'><li>8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.</li><li>There are 3 ladies who are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member is second to the left of J.</li><li>F, a male member is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+          "question": "What is true about J and K? ",
+          "options": [
+            { "text": "J is male, K is female " },
+            { "text": "J is female, K is male" },
+            { "text": "Both are female " },
+            { "text": "Both are male" },
+            { "text": "None of these" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "content":"<ol type='i'><li>8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.</li><li>There are 3 ladies who are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member is second to the left of J.</li><li>F, a male member is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+          "question": "How many persons are seated between K and F?",
+          "options": [
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" },
+            { "text": "5" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "content":"<ol type='i'><li>8 persons E, F, G, H, I, J, K and L are seated around a square table - two on each side.</li><li>There are 3 ladies who are not seated next to each other.</li><li>J is between L and F.</li><li>G is between I and F.</li><li>H, a lady member is second to the left of J.</li><li>F, a male member is seated opposite to E, a lady member.</li><li>There is a lady member between F and I.</li></ol>",
+          "question": "Who among the following are three lady members?",
+          "options": [
+            { "text": "E, H and J" },
+            { "text": "E, F and G" },
+            { "text": "E, H and G" },
+            { "text": "C, H and J" },
+            { "text": "None of these" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Five boys are sitting in a circle. Ajay is between Ramesh and Damanik. Suleman is left to Vikas. Ramesh is left to Suleman. Who is sitting immediate right to Ajay?",
+          "options": [
+            { "text": "Suleman" },
+            { "text": "Damanik" },
+            { "text": "Vikas" },
+            { "text": "Ramesh" },
+            { "text": "Suleman or Damanik" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 13,
+          "content":"<ol type='i'><li>Eight rooms A, B, C, D, E, F, G and H are located adjacent to one another in two different rows, four on each row.</li><li>Doors of the rooms of one row open to the doors of the rooms of another row.</li><li>No room of consecutive letter is either adjacent or opposite to each other.</li><li>A and B are the rooms located at the end of two different rows.</li><li>C is just left of E and is located in the same row in which A is located.</li><li>F is just left of B.</li></ol>",
+          "question": "Which of the following rooms is not located at either ends?",
+          "options": [
+            { "text": "B" },
+            { "text": "G" },
+            { "text": "D" },
+            { "text": "H" },
+            { "text": "A" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 14,
+          "content":"<ol type='i'><li>Eight rooms A, B, C, D, E, F, G and H are located adjacent to one another in two different rows, four on each row.</li><li>Doors of the rooms of one row open to the doors of the rooms of another row.</li><li>No room of consecutive letter is either adjacent or opposite to each other.</li><li>A and B are the rooms located at the end of two different rows.</li><li>C is just left of E and is located in the same row in which A is located.</li><li>F is just left of B.</li></ol>",
+          "question": "Which room is just opposite to C?",
+          "options": [
+            { "text": "F" },
+            { "text": "H" },
+            { "text": "B" },
+            { "text": "Can't be determined" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "content":"<ol type='i'><li>Eight rooms A, B, C, D, E, F, G and H are located adjacent to one another in two different rows, four on each row.</li><li>Doors of the rooms of one row open to the doors of the rooms of another row.</li><li>No room of consecutive letter is either adjacent or opposite to each other.</li><li>A and B are the rooms located at the end of two different rows.</li><li>C is just left of E and is located in the same row in which A is located.</li><li>F is just left of B.</li></ol>",
+          "question": "Which room is diagonally opposite to D?",
+          "options": [
+            { "text": "B" },
+            { "text": "H" },
+            { "text": "G" },
+            { "text": "Can't be determined" },
+            { "text": "None of these" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "content":"<ol type='i'><li>Six flats on a floor in the rows facing north and south are allotted to P, Q, R, S, T and U.</li><LI>Q gets a north facing flat and is not next to S.</LI><LI>S and U get diagonally opposite flats.</LI><LI>R next to U, gets a south facing flat and T gets a north facing flat.</LI></ol>",
+          "question": "To arrive at the answer to the above questions, which of the following statements can be dispensed with? ",
+          "options": [
+            { "text": "None" },
+            { "text": "(ii) only" },
+            { "text": "(iii) only" },
+            { "text": "(i) only" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "content":"<ol type='i'><li>Six flats on a floor in the rows facing north and south are allotted to P, Q, R, S, T and U.</li><LI>Q gets a north facing flat and is not next to S.</LI><LI>S and U get diagonally opposite flats.</LI><LI>R next to U, gets a south facing flat and T gets a north facing flat.</LI></ol>",
+          "question": "If the flats of T and P are interchanged, whose flat will be next to that of U?",
+          "options": [
+            { "text": "Q" },
+            { "text": "T" },
+            { "text": "P" },
+            { "text": "R" },
+            { "text": "None of these" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "content":"<ol type='i'><li>Six flats on a floor in the rows facing north and south are allotted to P, Q, R, S, T and U.</li><LI>Q gets a north facing flat and is not next to S.</LI><LI>S and U get diagonally opposite flats.</LI><LI>R next to U, gets a south facing flat and T gets a north facing flat.</LI></ol>",
+          "question": "Which of the combinations get south facing flats?",
+          "options": [
+            { "text": "URP" },
+            { "text": "UTP" },
+            { "text": "QTS" },
+            { "text": "Data inadequate " },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Five boys are sitting in a row. Raghu is not adjacent to Shyam or Amit. Ajay is not adjacent to Shyam. Raghu is adjacent to Mayank. if Mayank is at the middle in the row, then Ajay is adjacent to whom out of the following?",
+          "options": [
+            { "text": "Amit" },
+            { "text": "Raghu" },
+            { "text": "Mayank" },
+            { "text": "Shyam" },
+            { "text": "Data inadequate " }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Mini is to the right of Rajni but to the left of Ananta. Saya is to the right of Mini but to the left of Jaya. Who is on the extreme left if all the girls are facing North?",
+          "options": [
+            { "text": "Jaya" },
+            { "text": "Mini" },
+            { "text": "Rajni" },
+            { "text": "Saga" },
+            { "text": "Ananta" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 21,
+          "question": "Kittu is in-between Mohan and Sohan. Raju is to the left of Sohan and Shyam is to the right of Mohan. If all of the friends are sitting facing South, then who is on their extreme rieht?",
+          "options": [
+            { "text": "Mohan" },
+            { "text": "Sohan" },
+            { "text": "Kittu" },
+            { "text": "Shyam" },
+            { "text": "Data inadequate" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 22,
+          "content":"Nine family members are sitting in a theatre in one row. They are J, K, L, M, N, O, P, Q and R. L is at the right of M and at third place at the right of N. K is at one end of the row. Q is immediately next to O and P. O is at third place at the left of K. J is right next to the left of O.",
+          "question": "Which of the following statement is true?",
+          "options": [
+            { "text": "There is one person between L and O" },
+            { "text": "R and P are neighbours" },
+            { "text": "M is at one extreme end" },
+            { "text": "N is at two seats away from J." },
+            { "text": "None of the above" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "content":"Nine family members are sitting in a theatre in one row. They are J, K, L, M, N, O, P, Q and R. L is at the right of M and at third place at the right of N. K is at one end of the row. Q is immediately next to O and P. O is at third place at the left of K. J is right next to the left of O.",
+          "question": "The family members sitting on the right of O are :",
+          "options": [
+            { "text": "RML" },
+            { "text": "JQP" },
+            { "text": "QPK" },
+            { "text": "KPR" },
+            { "text": "Cannot be determined" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "content":"Nine family members are sitting in a theatre in one row. They are J, K, L, M, N, O, P, Q and R. L is at the right of M and at third place at the right of N. K is at one end of the row. Q is immediately next to O and P. O is at third place at the left of K. J is right next to the left of O.",
+          "question": "Who is sitting in the centre of the row?",
+          "options": [
+            { "text": "L" },
+            { "text": "J" },
+            { "text": "O" },
+            { "text": "Q" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 25,
+          "content":"(a) There are five friends; (b) They are standing in a row facing south; (c) Jayesh is to the immediate right of Alok; (d) Pramod is between Babir and Subodh; (e) Subodh is between Jayesh and Pramod.",
+          "question": "Who is at the extreme left end?",
+          "options": [
+            { "text": "Alok" },
+            { "text": "Babir" },
+            { "text": "Subodh" },
+            { "text": "Data inadequate" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 26,
+          "content":"(a) There are five friends; (b) They are standing in a row facing south; (c) Jayesh is to the immediate right of Alok; (d) Pramod is between Babir and Subodh; (e) Subodh is between Jayesh and Pramod.",
+          "question": "Who is in the middle?",
+          "options": [
+            { "text": "Babir" },
+            { "text": "Pramod" },
+            { "text": "Subodh" },
+            { "text": "Jayesh" },
+            { "text": "Alok" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 27,
+          "content":"(a) There are five friends; (b) They are standing in a row facing south; (c) Jayesh is to the immediate right of Alok; (d) Pramod is between Babir and Subodh; (e) Subodh is between Jayesh and Pramod.",
+          "question": "To find answers to the above two questions, which of the given statements can be dispensed with?",
+          "options": [
+            { "text": "None" },
+            { "text": "A only" },
+            { "text": "B only" },
+            { "text": "C only" },
+            { "text": "D only" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          
+          "question": "A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P?",
+          "options": [
+            { "text": "A" },
+            { "text": "X" },
+            { "text": "S" },
+            { "text": "Z" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 29,
+          "content":"There are 8 houses in a line and in each house only one boy lives with the conditions as given below:<ol><li>Jack is not the neighbour Siman.</li><li>Harry is just next to the left of Larry.</li><li>There is at least one to the left of Larry.</li><li>Paul lives in one of the two houses in the middle.</li><li>Mike lives in between Paul and Larry.</li></ol>",
+          "question": "If at least one lives to the right of Robert and Harry is not between Taud and Larry, then which one of the following statement is not correct?",
+          "options": [
+            { "text": "Robert is not at the left end." },
+            { "text": "Robert is between Simon and Taud." },
+            { "text": "Taud is between Paul and Jack." },
+            { "text": "There are three persons to the right of Paul." },
+            { "text": "None of these" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 30,
+          
+          "question": "A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting?",
+          "options": [
+            { "text": "Between B and D" },
+            { "text": "Between B and C" },
+            { "text": "Between E and D" },
+            { "text": "Between C and E" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 31,
+          "content":"In an exhibition seven cars of different companies—Cadillac, Ambassador, Fiat, Maruti, Mercedes, Bedford and Fargo are standing facing to east in the following order:<ol><li>Cadillac is next to right of Fargo.</li><li>Fargo is fourth to the right of Fiat.</li><li>Maruti car is between Ambassador and Bedford.</li><li>Fiat which is third to the left of Ambassador, is at one end.</li></ol>",
+          "question": "Which of the following statement is correct?",
+          "options": [
+            { "text": "Maruti is next left of Ambassador." },
+            { "text": "Bedford is next left of Fiat." },
+            { "text": "Bedford is at one end." },
+            { "text": "Fiat is next second to the right of Maruti" },
+            { "text": "None of these" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 32,
+          "content":"In an exhibition seven cars of different companies—Cadillac, Ambassador, Fiat, Maruti, Mercedes, Bedford and Fargo are standing facing to east in the following order:<ol><li>Cadillac is next to right of Fargo.</li><li>Fargo is fourth to the right of Fiat.</li><li>Maruti car is between Ambassador and Bedford.</li><li>Fiat which is third to the left of Ambassador, is at one end.</li></ol>",
+          "question": "Which one of the following statement is correct?",
+          "options": [
+            { "text": "Fargo car is between Ambassador and Fiat." },
+            { "text": "Cadillac is next left to Mercedes car." },
+            { "text": "Fargo is next right of Cadillac." },
+            { "text": "Maruti is fourth right of Mercedes." },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 33,
+          "content":"In an exhibition seven cars of different companies—Cadillac, Ambassador, Fiat, Maruti, Mercedes, Bedford and Fargo are standing facing to east in the following order:<ol><li>Cadillac is next to right of Fargo.</li><li>Fargo is fourth to the right of Fiat.</li><li>Maruti car is between Ambassador and Bedford.</li><li>Fiat which is third to the left of Ambassador, is at one end.</li></ol>",
+          "question": "Which of the following groups of cars is to the  right of Ambassador?",
+          "options": [
+            { "text": "Cadillac, Fargo and Maruti" },
+            { "text": "Mercedes, Cadillac and Fargo" },
+            { "text": "Maruti, Bedford and Fiat" },
+            { "text": "Bedford, Cadillac and Fargo" },
+            { "text": "None of these" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 34,
+          "content":"In an exhibition seven cars of different companies—Cadillac, Ambassador, Fiat, Maruti, Mercedes, Bedford and Fargo are standing facing to east in the following order:<ol><li>Cadillac is next to right of Fargo.</li><li>Fargo is fourth to the right of Fiat.</li><li>Maruti car is between Ambassador and Bedford.</li><li>Fiat which is third to the left of Ambassador, is at one end.</li></ol>",
+          "question": "Which one of the following is the correct position of Mercedes? ",
+          "options": [
+            { "text": "Next to the left of Cadillac." },
+            { "text": "Next to the left of Bedford" },
+            { "text": "Between Bedford and Fargo." },
+            { "text": "Fourth to the right of Maruti." },
+            { "text": "None of these" }
+          ],
+          "answer": 3
+        }
+      ]
+      
+      
+      
+      
+      
+    }
+  ]
+}
